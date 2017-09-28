@@ -1,6 +1,6 @@
 class GuessingGame {
     constructor() {
-        this.min=0;
+        this.min;
         this.max;
         this.guessNum;
     }
